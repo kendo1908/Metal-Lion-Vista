@@ -208,4 +208,4 @@ Metal Lion Vista is offered as a full free version with all features and updates
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-01 09:05:47 UTC
+**Last updated:** 2026-11-01 16:39:46 UTC
